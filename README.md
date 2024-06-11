@@ -17,4 +17,4 @@ This is a real hack, because it does not look as elegant as it should, but it se
 The .xpm files can be manually edit with a basic text editor, e.g. "Mousepad", if one wishes to change the colours or borders size.  
 Copy the entire folder "Bluebird-wide-grab" and paste into "/usr/share/themes/"
 
-  --Boffo le magifique
+  --Boffo le magnifique
