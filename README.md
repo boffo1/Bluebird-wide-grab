@@ -2,7 +2,7 @@
 
 Wide grab window borders for Xubuntu/xfce4 Bluebird theme.
 
-Theme by a one handed Bluebird lover.
+Theme modified by a one handed Bluebird lover.
 
 N.B.  
     This theme gives the user a wider window border grab area, of about 12 pixels for the borders and 32 pixels for the bottom corners.
