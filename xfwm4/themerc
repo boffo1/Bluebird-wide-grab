@@ -1,0 +1,21 @@
+## Bluebird-wide-grab.
+## xfwm4 theme by a Bluebird lover.
+##
+## N.B. This theme gives the user a wider border grab area, of about 12 pixels for the borders and
+## 32 pixels for the bottom corners.
+## The difference between the contents of this folder and the original Bluebird theme folder, is
+## the files: bottom-active.xpm, bottom-inactive.xpm, bottom-left-active.xpm, bottom-left-inactive.xpm
+## bottom-right-active.xpm, bottom-right-inactive.xpm, left-active.xpm, left-inactive.xpmright-active.xpm
+## and right-inactive.xpm, have been copied from "Default-xhdpi" theme.
+##
+##
+active_text_color=#77FF77
+button_offset=3
+button_spacing=4
+full_width_title=true
+inactive_text_color=#93ADC9
+maximized_offset=2
+show_app_icon=true
+title_horizontal_offset=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
